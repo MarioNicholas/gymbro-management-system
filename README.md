@@ -14,20 +14,6 @@ Gymbro Management System (GBMS) merupakan sebuah web app manajemen gym yang dibu
 | 3. | Ivan Leovandi                 | 18221129 |
 | 4. | Nicholas                      | 18221165 |
 
-### Use Case Gym Bro Management System
-|Use Case                            | Penanggung Jawab      |
-|:----------------------------------:|:---------------------:|
-|Register                            | Mario Nicholas Reyhan |
-|Login                               | Mario Nicholas Reyhan |
-|Melakukan Pembayaran                | Nicolas Owen Halim    |
-|Membayar Membership                 | Nicolas Owen Halim    |
-|Mendaftar Kelas                     | Nicholas              |
-|Melihat Jadwal dan Detil Kelas      | Nicholas              |
-|Menerima Notifikasi                 | Ivan Leovandi         |
-|Manipulasi Data Kelas               | Ivan Leovandi         |
-|Manipulasi Data Status Anggota      | Mario Nicholas Reyhan |
-|Mengirim Notifikasi Status Pengingat| Ivan Leovandi         |
-|Menampilkan Status Pembayaran       | Nicolas Owen Halim    |
 
 ### Basis Data
 Berikut adalah basis data yang tersedia pada GBMS : 
